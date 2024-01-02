@@ -1,6 +1,7 @@
-*.tfrecord.*
-.DS_Store
-*.h5
 .env
 *.keras
 *.pickle
+*.gz
+*.json
+*.h5
+*.TFRecord
